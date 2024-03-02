@@ -12,13 +12,12 @@
 
 Мой пример:
 ```
-elif 'say hi' in zadanie:
+    elif 'say hi' in zadanie:
         talk('Haaaaaaaaaaaaay!')
     elif 'say why' in zadanie:
         talk('WOOOOOOOOOOOOAH!')
     elif 'say you' in zadanie:
         talk('Ooooooooooh!')
-
         location = command()
     elif 'play music' in zadanie:
         talk('papaaa ba baaaaaaa!')
