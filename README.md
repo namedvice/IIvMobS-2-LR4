@@ -11,6 +11,7 @@
 ![image](https://github.com/namedvice/IIvMobS-2-LR4/assets/52739357/2807a8cc-1d4b-421c-91de-b5cc5e88ebef)
 
 Мой пример:
+
 elif 'say hi' in zadanie:
         talk('Haaaaaaaaaaaaay!')
     elif 'say why' in zadanie:
